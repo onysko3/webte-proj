@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webte-proj/static/css/main.409a6d52.css",
-    "main.js": "/webte-proj/static/js/main.cb5e11d9.js",
+    "main.js": "/webte-proj/static/js/main.ae15e1be.js",
     "static/js/787.06ed5321.chunk.js": "/webte-proj/static/js/787.06ed5321.chunk.js",
     "static/media/belizeVlajka.png": "/webte-proj/static/media/belizeVlajka.3588184f1c8e3910869a.png",
     "static/media/Ubuntu-Regular.ttf": "/webte-proj/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
@@ -24,6 +24,7 @@
     "static/media/sevKoreaVlajka.png": "/webte-proj/static/media/sevKoreaVlajka.07ee93b62cb9647599ab.png",
     "static/media/japonskoVlajka.jpg": "/webte-proj/static/media/japonskoVlajka.27b60617cd1e1b3eb597.jpg",
     "static/media/syriaVlajka.png": "/webte-proj/static/media/syriaVlajka.da04820e6dc45334bd9b.png",
+    "static/media/logo192.png": "/webte-proj/static/media/logo192.b4bb223189be53c99303.png",
     "static/media/macedonskoVlajka.png": "/webte-proj/static/media/macedonskoVlajka.7a7347c6a88158dc21ed.png",
     "static/media/cinaVlajka.png": "/webte-proj/static/media/cinaVlajka.a325d834a77ebfea58f1.png",
     "static/media/madarskoVlajka.jpg": "/webte-proj/static/media/madarskoVlajka.7c27c6152ad6b7a2a38d.jpg",
@@ -31,11 +32,11 @@
     "static/media/vietnamVlajka.png": "/webte-proj/static/media/vietnamVlajka.ca88adbf4f2457d714e4.png",
     "index.html": "/webte-proj/index.html",
     "main.409a6d52.css.map": "/webte-proj/static/css/main.409a6d52.css.map",
-    "main.cb5e11d9.js.map": "/webte-proj/static/js/main.cb5e11d9.js.map",
+    "main.ae15e1be.js.map": "/webte-proj/static/js/main.ae15e1be.js.map",
     "787.06ed5321.chunk.js.map": "/webte-proj/static/js/787.06ed5321.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.409a6d52.css",
-    "static/js/main.cb5e11d9.js"
+    "static/js/main.ae15e1be.js"
   ]
 }
