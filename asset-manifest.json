@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/webte-proj/static/css/main.409a6d52.css",
+    "main.js": "/webte-proj/static/js/main.be6c77cb.js",
+    "static/js/787.06ed5321.chunk.js": "/webte-proj/static/js/787.06ed5321.chunk.js",
+    "static/media/belizeVlajka.png": "/webte-proj/static/media/belizeVlajka.3588184f1c8e3910869a.png",
+    "static/media/Ubuntu-Regular.ttf": "/webte-proj/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/moria.png": "/webte-proj/static/media/moria.1bbc3f34909b28d6e719.png",
+    "static/media/Ubuntu-Bold.ttf": "/webte-proj/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/oceans.png": "/webte-proj/static/media/oceans.26909e005bd80181c547.png",
+    "static/media/nemeckoVlajka.png": "/webte-proj/static/media/nemeckoVlajka.5873b114213a5a166e3b.png",
+    "static/media/somalskoObrys.jpg": "/webte-proj/static/media/somalskoObrys.e7bd89e4a8e771e38d22.jpg",
+    "static/media/chorvatskoObrys.jpg": "/webte-proj/static/media/chorvatskoObrys.b27dc2209ef175d74bc0.jpg",
+    "static/media/boliviaVlajka.png": "/webte-proj/static/media/boliviaVlajka.64f901997e7a100e0347.png",
+    "static/media/gronskoObrys.jpg": "/webte-proj/static/media/gronskoObrys.3c21c282eda7f444fba2.jpg",
+    "static/media/indiaObrys.jpg": "/webte-proj/static/media/indiaObrys.1d5585671d3090bb29e5.jpg",
+    "static/media/tureckoObrys.jpg": "/webte-proj/static/media/tureckoObrys.c2b68c7a01d2562c11f3.jpg",
+    "service-worker.js": "/webte-proj/service-worker.js",
+    "static/media/spanielskoObrys.jpg": "/webte-proj/static/media/spanielskoObrys.1c6b46714ecb0e42612c.jpg",
+    "static/media/kolumbiaObrys.jpg": "/webte-proj/static/media/kolumbiaObrys.2f4b8c6889e814039183.jpg",
+    "static/media/kazachstanObrys.jpg": "/webte-proj/static/media/kazachstanObrys.6ebfcb2c8beae296c154.jpg",
+    "static/media/usaVlajka.jpg": "/webte-proj/static/media/usaVlajka.2ef203f285553cb01396.jpg",
+    "static/media/egyptVlajka.png": "/webte-proj/static/media/egyptVlajka.5d038f76e3ac2cb3dae9.png",
+    "static/media/sevKoreaVlajka.png": "/webte-proj/static/media/sevKoreaVlajka.07ee93b62cb9647599ab.png",
+    "static/media/japonskoVlajka.jpg": "/webte-proj/static/media/japonskoVlajka.27b60617cd1e1b3eb597.jpg",
+    "static/media/syriaVlajka.png": "/webte-proj/static/media/syriaVlajka.da04820e6dc45334bd9b.png",
+    "static/media/macedonskoVlajka.png": "/webte-proj/static/media/macedonskoVlajka.7a7347c6a88158dc21ed.png",
+    "static/media/cinaVlajka.png": "/webte-proj/static/media/cinaVlajka.a325d834a77ebfea58f1.png",
+    "static/media/madarskoVlajka.jpg": "/webte-proj/static/media/madarskoVlajka.7c27c6152ad6b7a2a38d.jpg",
+    "static/media/argentinaVlajka.png": "/webte-proj/static/media/argentinaVlajka.32c256c09b78b371facb.png",
+    "static/media/vietnamVlajka.png": "/webte-proj/static/media/vietnamVlajka.ca88adbf4f2457d714e4.png",
+    "index.html": "/webte-proj/index.html",
+    "main.409a6d52.css.map": "/webte-proj/static/css/main.409a6d52.css.map",
+    "main.be6c77cb.js.map": "/webte-proj/static/js/main.be6c77cb.js.map",
+    "787.06ed5321.chunk.js.map": "/webte-proj/static/js/787.06ed5321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409a6d52.css",
+    "static/js/main.be6c77cb.js"
+  ]
+}
